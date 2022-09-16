@@ -17,7 +17,7 @@ public class MultiplePersonUC5 extends MultiplePersonMain {
 	public void userDetails() {
 		// TODO Auto-generated method stub
 		//Scanner scanner = new Scanner(System.in);
-        ArrayList<Object> list = new ArrayList<>();
+        ArrayList list = new ArrayList();
         
         Scanner input = new Scanner(System.in);
 
